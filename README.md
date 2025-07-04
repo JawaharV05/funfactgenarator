@@ -1,6 +1,9 @@
-Fun Fact Generator
+FUN FACT GENERATOR
+
 A Streamlit-based web app that generates interesting, lesser-known fun facts on any topic using OpenAI’s GPT-3.5-turbo model. Enter any topic and instantly receive creative, surprising facts in an easy-to-use interface.
-Features
+
+FEATURES:
+
 Enter any topic (e.g., space, music, food)
 
 Generates an interesting, lesser-known fact using GPT-3.5-turbo
