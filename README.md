@@ -8,9 +8,13 @@ FEATURES
 Why this app is fun and useful
 
 • Input any topic (e.g., space, music, food)
+
 • Generates a unique, lesser-known fun fact using GPT-3.5-turbo
+
 • Simple and responsive UI built with Streamlit
+
 • Smart prompts for empty or invalid inputs
+
 • Stylish, readable output box for fun facts
 
 HOW IT WORKS
