@@ -13,3 +13,17 @@ Clean, responsive Streamlit interface
 Informative prompts for empty inputs
 
 Displays results in a stylish, readable format
+
+HOW IT WORKS:
+
+User enters a topic in the input field.
+
+On clicking Generate Fun Fact, the app sends a prompt to OpenAI’s GPT-3.5-turbo:
+
+arduino
+Copy
+Edit
+"Give me one interesting and lesser-known fun fact about {topic} in one or two sentences."
+The model responds with a short, creative fact.
+
+The app displays the result in a clean, styled box.
