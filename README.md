@@ -33,6 +33,13 @@ Behind the scenes of fact generation
 
 • The app displays it in a styled output box with emphasis and clarity
 
+![WhatsApp Image 2025-07-04 at 12 17 20_b122ed65](https://github.com/user-attachments/assets/f3d712d9-818e-4f72-8b5d-1a1879d9bb78)
+![WhatsApp Image 2025-07-04 at 12 17 56_4586e744](https://github.com/user-attachments/assets/c22b7f66-be65-431d-aaad-2897a290a5ec)
+![WhatsApp Image 2025-07-04 at 12 19 03_b22e22a0](https://github.com/user-attachments/assets/a65f06fe-4c08-4afd-8e4e-63d72dc6935b)
+
+
+
+
 
 | Technology        | Purpose                             |
 | ----------------- | ----------------------------------- |
