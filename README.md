@@ -27,3 +27,11 @@ Edit
 The model responds with a short, creative fact.
 
 The app displays the result in a clean, styled box.
+
+| Technology        | Purpose                             |
+| ----------------- | ----------------------------------- |
+| **Python 3.x**    | Core programming language           |
+| **Streamlit**     | Building interactive web UI         |
+| **OpenAI API**    | GPT-3.5-turbo for text generation   |
+| **python-dotenv** | Securely load environment variables |
+
